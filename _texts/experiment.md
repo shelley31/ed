@@ -1,8 +1,8 @@
- ---
- layout: narrative
- title: The Passionate Pilgrim
- author: William Shakespeare
- source: Hathitrust
+---
+layout: narrative
+title: The Passionate Pilgrim
+author: William Shakespeare
+source: Hathitrust
  ---
  
  THE PASSIONATE PILGRIM ♦«
