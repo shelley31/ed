@@ -1,3 +1,11 @@
+ ---
+ layout: page
+ title: The Passionate Pilgrim
+ author: William Shakespeare
+ publication-date: 1599
+ source: Hathitrust 
+ ---
+ 
  THE PASSIONATE PILGRIM ♦«
 I
 | BEING A REPRODUCTION IN FACSIMILE OF ®
