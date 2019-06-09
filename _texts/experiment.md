@@ -1,9 +1,9 @@
  ---
- layout: page
+ layout: narrative
  title: The Passionate Pilgrim
  author: William Shakespeare
  publication-date: 1599
- source: Hathitrust 
+ source: Hathitrust
  ---
  
  THE PASSIONATE PILGRIM ♦«
